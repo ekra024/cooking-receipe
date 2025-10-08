@@ -1,0 +1,92 @@
+
+[
+  {
+    "recipe_image": "/Chicken Curry.jpeg",
+    "recipe_id": "101",
+    "recipe_name": "Chicken Curry",
+    "short_description": "একটি সুস্বাদু মসলাদার চিকেন কারি।",
+    "ingredients": ["500 g chicken", "2 tbsp oil", "1 onion", "2 tomatoes", "1 tsp salt", "1 tsp turmeric", "1 tsp garam masala"],
+    "preparing_time": 40,
+    "calories": 450
+  },
+  {
+    "recipe_image": "/Beef Steak.jpeg",
+    "recipe_id": "102",
+    "recipe_name": "Beef Steak",
+    "short_description": "নরম ও মজাদার গরুর মাংসের স্টেক।",
+    "ingredients": ["300 g beef steak", "1 tbsp butter", "1 tsp black pepper", "1 tsp salt", "1 garlic clove"],
+    "preparing_time": 30,
+    "calories": 520
+  },
+  {
+    "recipe_image": "/Vegetable Fried Rice.jpeg",
+    "recipe_id": "103",
+    "recipe_name": "Vegetable Fried Rice",
+    "short_description": "সবজির সাথে সুস্বাদু ফ্রাইড রাইস।",
+    "ingredients": ["2 cups cooked rice", "1/2 cup carrots", "1/2 cup peas", "2 tbsp soy sauce", "1 tsp salt", "1 tbsp oil"],
+    "preparing_time": 20,
+    "calories": 350
+  },
+  {
+    "recipe_image": "/Grilled Salmon.jpeg",
+    "recipe_id": "104",
+    "recipe_name": "Grilled Salmon",
+    "short_description": "গ্রিলড স্যামন ফিলেট সুস্বাদু ও স্বাস্থ্যকর।",
+    "ingredients": ["200 g salmon", "1 tbsp olive oil", "1 tsp lemon juice", "1 tsp garlic powder", "1 tsp black pepper"],
+    "preparing_time": 25,
+    "calories": 300
+  },
+  {
+    "recipe_image": "/Chocolate Cake.jpeg",
+    "recipe_id": "105",
+    "recipe_name": "Chocolate Cake",
+    "short_description": "মুখরোচক চকোলেট কেক মিষ্টি প্রেমীদের জন্য।",
+    "ingredients": ["200 g flour", "100 g cocoa powder", "200 g sugar", "2 eggs", "1 tsp baking powder", "100 ml milk"],
+    "preparing_time": 50,
+    "calories": 450
+  },
+  {
+    "recipe_image": "/Pasta Alfredo.jpeg",
+    "recipe_id": "106",
+    "recipe_name": "Pasta Alfredo",
+    "short_description": "ক্রিমি ও চিজি আলফ্রেডো পাস্তা।",
+    "ingredients": ["200 g pasta", "100 ml cream", "50 g parmesan cheese", "1 tbsp butter", "1 tsp garlic powder"],
+    "preparing_time": 30,
+    "calories": 400
+  },
+  {
+    "recipe_image": "/Paneer Tikka.jpeg",
+    "recipe_id": "107",
+    "recipe_name": "Paneer Tikka",
+    "short_description": "মশলাদার ও গ্রিলড পনির টিক্কা।",
+    "ingredients": ["250 g paneer", "1 tbsp yogurt", "1 tsp red chili powder", "1 tsp salt", "1 tbsp lemon juice"],
+    "preparing_time": 35,
+    "calories": 320
+  },
+  {
+    "recipe_image": "/Caesar Salad.jpeg",
+    "recipe_name": "Caesar Salad",
+    "short_description": "হালকা ও সুস্বাদু সিজার সালাদ।",
+    "ingredients": ["1 cup lettuce", "50 g grilled chicken", "2 tbsp Caesar dressing", "1 tbsp parmesan cheese", "1 tsp black pepper"],
+    "preparing_time": 15,
+    "calories": 250
+  },
+  {
+    "recipe_image": "/Mango Smoothie.jpeg",
+    "recipe_id": "109",
+    "recipe_name": "Mango Smoothie",
+    "short_description": "গ্রীষ্মের জন্য পারফেক্ট ম্যাঙ্গো স্মুদি।",
+    "ingredients": ["1 mango", "1 cup yogurt", "1 tbsp honey", "1/2 cup milk", "5 ice cubes"],
+    "preparing_time": 10,
+    "calories": 200
+  },
+  {
+    "recipe_image": "/Shrimp Curry.jpeg",
+    "recipe_id": "110",
+    "recipe_name": "Shrimp Curry",
+    "short_description": "মশলাদার চিংড়ি কারি।",
+    "ingredients": ["250 g shrimp", "1 onion", "1 tomato", "1 tbsp oil", "1 tsp salt", "1 tsp turmeric"],
+    "preparing_time": 30,
+    "calories": 370
+  }
+]
