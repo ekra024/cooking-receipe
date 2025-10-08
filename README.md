@@ -2,7 +2,7 @@
 
 A simple web application to browse, search, and share cooking recipes. Users can explore recipes, add their own, and follow step-by-step instructions to cook delicious meals.
 
-**Live Demo:** [Cooking Recipe App Live](https://silly-duckanoo-f7270d.netlify.app/)
+**Live Demo:** [Cooking Recipe App Live](https://thunderous-jelly-ea7ebe.netlify.app/)
 
 ## Features
 - Browse recipes by category
